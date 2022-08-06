@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: rgb(53, 52, 52);
+}
+
+
+.levelone{
+    background-color: rgb(41, 32, 32);
+    color: white;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.leveltwo{
+    background-color: rgb(70, 69, 69);
+    color: white;
+}
+.third,.fourth,.fifth{
+    background-color: rgb(95, 21, 21);
+}
+.link{
+    color: red;
+}
+.level3{
+    background-color: black;
+    color: bisque;
+}
+#red {
+    color: red;
+}
+#white{
+    color: bisque;
+}
